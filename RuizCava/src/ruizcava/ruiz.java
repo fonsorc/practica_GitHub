@@ -9,5 +9,7 @@ package ruizcava;
  * @author ALFONSO RUIZ CAVA
  */
 public class ruiz {
-    
+    public void holaMundo(){
+	System.out.println("Hola Mundo!");
+    }
 }
