@@ -10,11 +10,12 @@ package ruizcava;
  */
 public class RuizCava {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        cava c = new cava();
+        c.suma();
+
+	ruiz r = new ruiz();
+        r.holaMundo();
     }
     
 }
