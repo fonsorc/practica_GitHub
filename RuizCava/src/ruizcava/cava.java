@@ -15,15 +15,15 @@ public class cava {
 	System.out.println(a+b);
     }
     
-    public void dividir(){
-	int a = 2;
+    public void resta(){
+        int a = 2;
 	int b = 4;
-	System.out.println(b/a);
+	System.out.println(b-a);
     }
     
-    public void resto(){
-	int a = 2;
+    public void multiplicar(){
+        int a = 2;
 	int b = 4;
-	System.out.println(b%a);
+	System.out.println(b*a);
     }
 }
