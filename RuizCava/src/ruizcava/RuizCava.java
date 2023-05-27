@@ -11,7 +11,9 @@ package ruizcava;
 public class RuizCava {
 
     public static void main(String[] args) {
-        cava c = new cava();
+        // ALFONSO RUIZ CAVA
+	    
+	cava c = new cava();
         c.suma();
 
 	ruiz r = new ruiz();
