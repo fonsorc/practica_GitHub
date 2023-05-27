@@ -12,4 +12,12 @@ public class ruiz {
     public void holaMundo(){
 	System.out.println("Hola Mundo!");
     }
+    
+    public void holitaMundo(){
+	System.out.println("Holita Mundo!");
+    }
+    
+    public void helloWorld(){
+	System.out.println("Hello World!");
+    }
 }

@@ -14,4 +14,16 @@ public class cava {
 	int b = 4;
 	System.out.println(a+b);
     }
+    
+    public void dividir(){
+	int a = 2;
+	int b = 4;
+	System.out.println(b/a);
+    }
+    
+    public void resto(){
+	int a = 2;
+	int b = 4;
+	System.out.println(b%a);
+    }
 }
